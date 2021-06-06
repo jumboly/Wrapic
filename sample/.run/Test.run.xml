@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Test" type="CompoundRunConfigurationType">
+    <toRun name="Wrapic.Client" type="DotNetProject" />
+    <toRun name="Wrapic.Web" type="LaunchSettings" />
+    <method v="2" />
+  </configuration>
+</component>
